@@ -92,7 +92,7 @@ Some notebook cells reference Google Colab paths. If running locally, update tho
 
 ---
 
-## What We Did
+## What I Did
  
 ### 1. Data Cleaning & Preprocessing
 - No missing values or duplicates found
