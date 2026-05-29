@@ -21,20 +21,6 @@ global-weather-data-analysis/
 |   |-- GlobalWeatherRepository_Cleaned_Scaled.csv
 |   `-- GlobalWeatherRepository_Engineered.csv
 `-- plots/
-    |-- Feature Correlation Heatmap.png
-    |-- Global Temperature Distribution.png
-    |-- Humidity Distribution- Humidity vs Precipitation.png
-    |-- Seasonal Temperature Patterns by Region.png
-    |-- Temperature Trends in Tokyo.png
-    |-- Top 15 Countries by Average PM2.5 (min. 100 records).png
-    |-- Top 15 Most Common Weather Conditions.png
-    |-- UV index.png
-    |-- Wind Speed vs Temperature (colored by Humidity).png
-    |-- avergaes for region.png
-    |-- image.png
-    |-- newplot.png
-    |-- newplot2.png
-    `-- newplot3.png
 ```
 
 ## Workflow
